@@ -17,6 +17,7 @@ export const Form = styled.form`
     color: red;
     font-size: 13px;
     margin: 0 10px 0 10px;
+    width: 236px;
   }
   input:hover {
     background-color: lightcyan;
